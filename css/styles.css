@@ -64,7 +64,7 @@ Read more: https://html.com/attributes/img-height/#ixzz6wMuw9YxB
 
 body {
   display:flex;
-  text-align: center;
+  align-items: center;
   margin: 0;
   font-family: var(--bs-font-sans-serif);
   font-size: 1rem;
