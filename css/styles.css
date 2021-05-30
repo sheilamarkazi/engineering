@@ -50,7 +50,7 @@
 }
 
 img.profileimage { 
-  max-width: 50%; 
+  max-width: 30%; 
   height: auto; 
   border-radius: 50%;
   margin-left: auto;
@@ -58,7 +58,7 @@ img.profileimage {
 }
 
 img.portfolio { 
-  max-width: 30%; 
+  max-width: 50%; 
   height: auto; 
   margin-left: auto;
   margin-right: auto;
