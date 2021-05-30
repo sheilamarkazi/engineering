@@ -50,12 +50,18 @@
 }
 
 img.profileimage {   
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   max-width: 35%; 
   height: auto; 
   border-radius: 50%;
 }
 
-img.portfolio { 
+img.portfolio {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   max-width: 50%; 
   height: auto; 
 }
