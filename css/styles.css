@@ -49,7 +49,16 @@
   }
 }
 
-img.profileimage { max-width: 20%; height: auto; }
+img.profileimage { 
+  max-width: 40%; 
+  height: auto; 
+  border-radius: 50%;
+}
+
+img.portfolio { 
+  max-width: 40%; 
+  height: auto; 
+}
 
 Read more: https://html.com/attributes/img-height/#ixzz6wMuw9YxB
 
