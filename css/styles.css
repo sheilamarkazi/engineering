@@ -69,6 +69,7 @@ img.portfolio {
 Read more: https://html.com/attributes/img-height/#ixzz6wMuw9YxB
 
 body {
+  display:block;
   margin: 0;
   font-family: var(--bs-font-sans-serif);
   font-size: 1rem;
