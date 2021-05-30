@@ -49,27 +49,22 @@
   }
 }
 
-img.profileimage { 
-  
-  max-width: 20%; 
+img.profileimage {   
+  max-width: 30%; 
   height: auto; 
   border-radius: 50%;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 img.portfolio { 
-  
-  max-width: 70%; 
+  max-width: 60%; 
   height: auto; 
-  margin-left: auto;
-  margin-right: auto;
 }
 
 Read more: https://html.com/attributes/img-height/#ixzz6wMuw9YxB
 
 body {
-  display:block;
+  display:flex;
+  text-align: center;
   margin: 0;
   font-family: var(--bs-font-sans-serif);
   font-size: 1rem;
